@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  padding: 5rem;
+}
+
+button i {
+  color: rgb(97, 1, 86);
+}
+
+.completed {
+  text-decoration: line-through;
+}
